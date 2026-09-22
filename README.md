@@ -1,6 +1,6 @@
 # MeuPrimeiroGit
 
-Projeto de uma pequena lanchonete.
+Projeto de uma pequena lanchonete
 
 ## O que foi desenvolvido
 
